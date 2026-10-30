@@ -161,8 +161,6 @@ python3 signs_visualizer.py
 
 Репозиторий основан на [dark516/RTK_robot](https://github.com/dark516/RTK_robot) и выделяет городской сценарий в отдельный проект. Базовая платформа, её устройство и инструкции доступны в [dark516/Frob_robot](https://github.com/dark516/Frob_robot).
 
-Благодарим авторов Frob и используемых ROS 2-пакетов за основу для разработки и экспериментов.
-
 ---
 
 <div align="center">
